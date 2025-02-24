@@ -509,7 +509,7 @@ Uporczywe powracanie myśli i skupienie uwagi postaci na jakimś zagadnieniu, rz
 
 ##### Otumanienie
 
-Postać żyje w stanie oddalenia od świata zewnętrznego i z czasem zupełnie przestaje go rozumieć. Postać otrzymuje 10% mniej doświadczenia i podlega wysączeniu 2 punktów inteligencji.
+Postać żyje w stanie oddalenia od świata zewnętrznego i z czasem zupełnie przestaje go rozumieć. Postać podlega wysączeniu 2 punktów inteligencji.
 
 ##### Paranoja
 
