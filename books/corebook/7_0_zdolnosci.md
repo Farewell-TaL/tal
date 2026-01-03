@@ -1,4 +1,4 @@
-## Rozdział 7 - Zdolności
+## Zdolności
 
 TODO: zmienić wszystkie zdolności.
 
