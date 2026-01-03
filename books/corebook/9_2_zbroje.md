@@ -1,4 +1,4 @@
-### 9.2 Zbroje
+### Zbroje
 
 TODO: opis w podsekcji "Zwykłe zbroje"
 
@@ -80,15 +80,15 @@ Rodzaj zbroi
 Statystyka
 : to wskaźnik pancerza i pokrycia danej zbroi, a te dwie wartości oddzielone są ukośnikiem. Jeżeli zbroja nie jest zwykła, tylko innej jakości, to może się tu pojawić również o tym wzmianka w postaci odpowiedniej litery, a jeżeli zbroja jest uszkodzona, to ukośnikiem oddzielone zostaną dwie litery symbolizujące: pierwsza bazową jakość, a druga aktualną jakość. Jakości: Mistrzowska - M; Dobra - D; Zwykła - Z; Kiepska - K; Fatalna - F. Jeżeli nie pojawia się litera, to znaczy, że zbroja jest bazowo zwykłej jakości i aktualnie ma taką też jakość. 
 
-Przykładowe nazwy zbrój:
-Kościany hełm (18/50, M);
-Elficka zbroja (18/40, M/F);
-Skórznia (16/50, K/F);
-Stalowa kolczuga (32/30);
-Żelazna kolczuga (24/40 D/K);
-Żelazny hełm (30/40);
-Żelazna płytowa (33/40 M/D);
-Żelazna zbroja (30/40).
+Przykładowe nazwy zbrój:  
+Kościany hełm (18/50, M);  
+Elficka zbroja (18/40, M/F);  
+Skórznia (16/50, K/F);  
+Stalowa kolczuga (32/30);  
+Żelazna kolczuga (24/40 D/K);  
+Żelazny hełm (30/40);  
+Żelazna płytowa (33/40 M/D);  
+Żelazna zbroja (30/40).  
 
 ### Cechy zbrój i materiałów
 
