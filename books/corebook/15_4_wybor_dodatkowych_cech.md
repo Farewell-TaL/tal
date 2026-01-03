@@ -1,4 +1,4 @@
-### 15.4 Krok 4: Wybór dodatkowych cech
+### Krok 4: Wybór dodatkowych cech
 
 TODO: przeniesienie cech dodatkowych do tej sekcji.
 
