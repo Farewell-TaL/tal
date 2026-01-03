@@ -1,4 +1,4 @@
-### 6.1 Umiejętności zwykłe {data-children-id-prefix=umiejetnosc-zwykla}
+### Umiejętności zwykłe {data-children-id-prefix=umiejetnosc-zwykla}
 
 Umiejętności zwykłe są najpowszechniejszymi umiejętnościami, których opanowanie i rozwój nie wymaga jakichś specjalnych predyspozycji. Umiejętności poniżej przedstawione mają zwykle po kilka specjalnych opisów, które informują o ich sposobie używania. Powinno to stanowić jedynie wskazówkę dla MG i Graczy jak z nich korzystać, gdyż inwencja twórca winna wygrywać nad opisem mechanicznym.
 
