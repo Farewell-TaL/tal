@@ -1,4 +1,4 @@
-## Rozdział 6 - Umiejętności
+## Umiejętności
 
 TODO: zmienić umiejętności.
 
