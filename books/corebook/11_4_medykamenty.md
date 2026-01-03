@@ -1,4 +1,4 @@
-### 11.4 Medykamenty
+### Medykamenty
 
 TODO: sekcja nie została sprawdzona
 
