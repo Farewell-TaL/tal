@@ -1,4 +1,4 @@
-## Rozdział 14 -  Z wizytą w karczmie
+## Z wizytą w karczmie
 
 TODO: sekcja nie została sprawdzona
 
