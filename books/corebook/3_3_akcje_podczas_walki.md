@@ -1,4 +1,4 @@
-### 3.3 Akcje podczas walki
+### Akcje podczas walki
 
 W podrozdziale opisano akcje, z których postać może skorzystać podczas walki. Istnieją zasadniczo dwie kategorie działań, które postać może podjąć: normalne i specjalne. Działania normalne są proste i nie wymagają od postaci czegoś nadzwyczajnego. Jeżeli postać nie informuje MG, że korzysta z akcji specjalnej, to należy przyjąć, że korzysta z akcji normalnej. 
 
@@ -150,7 +150,7 @@ Wdrapywanie się po stromych zboczach, wchodzenie po linie itp. Z zasady każda 
 
 Wypicie mikstury zajmuje postaci 1 akcję cało-rundową (przygotowanie do wypicia mikstury np. odkorkowanie, wstrząśnięcie, pozbycie się pustego pojemnika etc. zawiera się w tej akcji). Dobycie jej jednak z pasa bądź plecaka, wymaga poświęcenia na to odpowiedniej ilości akcji, tak jak opisane to zostało w działaniach na ekwipunku.
 
-#### 3.3.1 Specjalne akcje podczas walki 
+#### Specjalne akcje podczas walki 
 
 Poniżej zostały opisane specjalne techniki, którymi może się posługiwać postać podczas walki. Te specjalne techniki są manewrami, bądź specjalnymi atakami. Manewry są to techniki, które działają w całej rundzie, a specjalne ataki są z zasady chwilowe. Postać musi poświęcić ponadto dodatkowe akcje (zwykłe lub dodatkowe), aby konkretna specjalna akcja się powiodła. Trzeba również pamiętać, że wszystkie akcje dodatkowe można wykonać również w akcjach zwykłych. 
 
