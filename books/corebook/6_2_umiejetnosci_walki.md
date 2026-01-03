@@ -1,4 +1,4 @@
-### 6.2 Umiejętności walki {data-children-id-prefix=umiejetnosc-walki}
+### Umiejętności walki {data-children-id-prefix=umiejetnosc-walki}
 
 Opisane w tym podrozdziale umiejętności należą do szeroko rozumianej grupy umiejętności walki. Dokładniejsze zastosowanie tych umiejętności zostało opisane w rozdziale poświęconym walce, a tu zamieszczone zostały informacje o tym jak te umiejętności współgrają z innymi i jakie można z nich czerpać dodatkowe korzyści.
  
