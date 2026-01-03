@@ -1,4 +1,4 @@
-### 15.2 Krok 2: Umiejscowienie w świecie
+### Krok 2: Umiejscowienie w świecie
 
 Każdy skądś pochodzi i wychował się w jakichś warunkach. Możliwe, że Twoja postać nie pamięta swego dzieciństwa lub straciła pamięć (amnestia jest popularna w światach fantasy i telenowelach brazylijskich), ale i tak musi skądś pochodzić, nawet jeżeli jej żywot jest efektem magicznego eksperymentu.
 
