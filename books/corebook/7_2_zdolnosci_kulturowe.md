@@ -1,11 +1,11 @@
-### 7.2 Zdolności kulturowe {data-children-id-prefix=zdolnosc-kulturowa}
-
-TODO: zmiana tablicy tabela-zdolnosci-kulturowe
+### Zdolności kulturowe {data-children-id-prefix=zdolnosc-kulturowa}
 
 Poniżej opisano zdolności, które postać może wybrać na etapie tworzenia postaci. Oznacza to, że zdolności te można zakupić tylko za doświadczenie początkowe. Dodatkowym warunkiem wybrania zdolności z danej grupy jest odpowiednie pochodzenie kulturowe postaci tj. musi wychować się w danej krainie/państwie/społeczeństwie, aby móc zdobyć dane zdolności. Nazwy wspomnianych krain, społeczeństw, czy państw pojawiają się w wymaganiach danej zdolności. 
 
 Ograniczenia
 : Postać może mieć tylko jedną zdolność określoną jako "dzieciństwo", gdyż zdolność ta będzie determinowała cały przebieg początków życia postaci.
+
+TODO: zmiana tablicy tabela-zdolnosci-kulturowe
 
 [Zdolności kulturowe i ich wymagania]
 | Nazwa | Region | Wymagania^1^ |
