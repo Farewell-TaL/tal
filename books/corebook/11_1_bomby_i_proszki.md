@@ -1,4 +1,4 @@
-### 11.1 Bomby i proszki
+### Bomby i proszki
 
 TODO: sekcja nie została sprawdzona
 
