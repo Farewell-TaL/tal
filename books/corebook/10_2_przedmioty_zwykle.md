@@ -1,4 +1,4 @@
-### 10.2 Przedmioty zwykłe
+### Przedmioty zwykłe
 
 TODO: sekcja nie została sprawdzona
 
