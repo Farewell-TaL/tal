@@ -1,4 +1,4 @@
-### 10.1 Szybkie zakupy 
+### Szybkie zakupy 
 
 Dla zaoszczędzenia czasu poniżej przedstawiono najpopularniejsze zestawy ubrań, sprzętu podróżnego i jadła, które przydadzą się na szlaku i w mieście. 
 
