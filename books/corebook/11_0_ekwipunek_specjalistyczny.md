@@ -1,4 +1,4 @@
-## Rozdział 11 -  Ekwipunek specjalistyczny
+## Ekwipunek specjalistyczny
 
 TODO: sekcja nie została sprawdzona
 
