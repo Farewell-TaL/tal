@@ -1,4 +1,4 @@
-### 7.3 Zdolności wrodzone {data-children-id-prefix=zdolnosc-wrodzona}
+### Zdolności wrodzone {data-children-id-prefix=zdolnosc-wrodzona}
 
 W niniejszym podrozdziale zostały wymienione dostępne dla postaci zdolności związane z jej najgłębszą strukturą wzorca, dane od bogów, przeznaczone albo inaczej te, które ma od urodzenia. Te zdolności w przeciwieństwie do kolejnych wymienionych można zdobyć tylko i wyłącznie na etapie tworzenia postaci.
 
