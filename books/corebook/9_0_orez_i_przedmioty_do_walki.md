@@ -1,4 +1,4 @@
-## Rozdział 9 - Oręż i przedmioty do walki
+## Oręż i przedmioty do walki
 
 TODO: co z sekcją 9_1_bronie_opisy?
 
