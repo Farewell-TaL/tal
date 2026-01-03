@@ -1,4 +1,4 @@
-### 12.5 Nieruchomości i majątki ziemskie
+### Nieruchomości i majątki ziemskie
 
 TODO: sekcja nie została sprawdzona
 
