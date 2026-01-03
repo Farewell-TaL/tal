@@ -1,4 +1,4 @@
-### 10.3 Ubrania i stroje
+### Ubrania i stroje
 
 Wyruszając na wyprawę, chociażby na rynek swojego miasta, najlepiej jest odziać się odpowiednio, a w najgorszym razie założyć cokolwiek. Ubrania i stroje różnią się w zależności od regionów Sorii, czy społeczności zamieszkujących dane okolice. Haft elficki różni się od sarmickiego, a na północy preferuje się cieplejsze stroje, gdy na południu dominują przewiewne wdzianka. Centrum modowym Sorii jest Dorien, czyli stolica Imperium. Nie ma się czemu dziwić, gdyż jest to największe miasto w tej części świata, a co za tym idzie wyznacza ono standardy ubioru dla śmietanki wszystkich okolicznych państw. 
 
