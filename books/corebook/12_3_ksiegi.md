@@ -1,4 +1,4 @@
-### 12.3 Księgi
+### Księgi
 
 TODO: sekcja nie została sprawdzona
 
