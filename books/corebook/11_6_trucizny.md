@@ -1,4 +1,4 @@
-### 11.6 Trucizny 
+### Trucizny 
 
 TODO: sekcja nie została sprawdzona
 
