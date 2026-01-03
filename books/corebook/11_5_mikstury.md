@@ -1,4 +1,4 @@
-### 11.5 Mikstury
+### Mikstury
 
 TODO: sekcja nie została sprawdzona
 
