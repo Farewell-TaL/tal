@@ -1,4 +1,4 @@
-### 1.1 Terminologia podstawowa
+### Terminologia podstawowa
 
 W poniższym podrozdziale wyjaśnione zostały najczęściej pojawiające się w podręcznikach Tales and Legends pojęcia.
 
