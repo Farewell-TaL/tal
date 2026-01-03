@@ -1,4 +1,4 @@
-### 7.4 Zdolności wzorca {data-children-id-prefix=zdolnosc-wzorca}
+### Zdolności wzorca {data-children-id-prefix=zdolnosc-wzorca}
 
 TODO: przejrzeć tę sekcję.
 
