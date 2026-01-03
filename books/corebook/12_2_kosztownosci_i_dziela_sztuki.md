@@ -6,4 +6,4 @@ Wśród posiadanych bogactw występują dobra, które mają swoje walory estetyc
 
 #### Pas zdobiony
 
-Na mężczyznę najlepiej pasuje pas, gdy jest pasowany na rycerza. Pasy są wśród ludzi należących do szlachty wyznacznikami statusu społecznego. Pasy zdobi się metalami szlachetnymi i klejnotami. 
+Na mężczyznę najlepiej pasuje pas, gdy jest pasowany na rycerza. Pasy są wśród ludzi należących do szlachty wyznacznikami statusu społecznego. Pasy zdobi się metalami szlachetnymi i klejnotami.
