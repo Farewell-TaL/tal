@@ -1,4 +1,4 @@
-## Rozdział 1 - Mechanika
+## Mechanika
 
 W rozdziale tym pojawia się opis podstawowej terminologii stosowanej w grze i mechaniki, która jest bazą działania pozostałych zasad. W przypadku kolizji między zasadami należy skorzystać z tej, która wyłącza pozostałe lub, gdy nie ma na to wyraźnego wskazania, skorzystać z tej najbardziej szczegółowej.
 
