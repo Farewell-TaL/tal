@@ -245,4 +245,4 @@ Kawałek materiału, który służy głównie do ozdoby, ale można nim utrzyma�
 ##### Sznurek paskowy
 
 Waga: n/d; Wartość: 15
-Zwykły sznurek służący do tego, aby przewiązać się w pasie. 
+Zwykły sznurek służący do tego, aby przewiązać się w pasie.  
