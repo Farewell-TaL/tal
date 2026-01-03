@@ -1,4 +1,4 @@
-## Rozdział 5 - Języki
+## Języki
 
 TODO - uspójnić z księgą podstaw. Obecnie języki nie są w niej zawarte.
 
