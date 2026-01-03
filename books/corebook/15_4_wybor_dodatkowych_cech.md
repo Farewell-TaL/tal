@@ -1,7 +1,5 @@
 ### Krok 4: Wybór dodatkowych cech
 
-TODO: przeniesienie cech dodatkowych do tej sekcji.
-
 Wady i zalety są normalną rzeczą. Gracz może wybrać dla swej postaci dodatkowe cechy, które będą modyfikowały jego statystyki lub wymagały odpowiedniego odgrywania. 
 
 Zwykle to nie nasze cnoty, lecz wady są powodem naszych sukcesów. Wady tworzą braki, a nikt nie lubi, gdy mu czegoś brakuje, więc staje się dzięki temu bardziej aktywny. Wybierając dodatkowe cechy postać otrzymuje doświadczenie, które rekompensuje posiadanie danej ułomności (w końcu Bohater musiał przeżyć ileś lat z tą wadą, a przez to było mu ciężej funkcjonować, co przekłada się na dodatkowe doświadczenie) lub otrzymuje możliwość zdobycia dodatkowych punktów szczęścia w czasie sesji, lub jego możliwości w jakiejś innej dziedzinie od tej związanej z wadą stają się większe.
@@ -14,4 +12,4 @@ Nie trzeba dobierać dla postaci dodatkowych cech, jeżeli się ich nie chce, a 
 
 Każda niewykorzystana, a możliwa cecha dodatkowa może być zamieniona na poziom umiejętności gry na instrumentach, pracy, wiedzy lub znajomości, pod warunkiem, że postać spełnia warunki zdobywania poziomów w danych umiejętnościach. Wszystkie te umiejętności mają warianty, a co za tym idzie niewykorzystane cechy dodatkowe będą mogły być zamienione tylko na jeden z wariantów danej umiejętności. Poza tym postać może skorzystać tutaj z opcji zamiany wszystkich cech dodatkowych na poziomy tylko jeden umiejętności lub podzielić je na kilka różnych umiejętności. Pierwszy z wariantów jest korzystniejszy, gdyż postać dzięki temu może zaoszczędzić punkty doświadczenia (np. trzy umiejętności na 1 poziomie wymagają poświecenia 300 punktów doświadczenia, a jedna umiejętność na 3 poziomie wymaga poświęcenia 600 punktów doświadczenia), lecz ta druga opcja w pewnych warunkach może postaci gwarantować możliwość wykonywania testów, gdyż niektóre umiejętności wymagają przynajmniej 1 poziomu, aby można było wykonać ich test.  
 
-### LISTA DODATKOWYCH CECH
+TODO: przeniesienie cech dodatkowych do tej sekcji.
