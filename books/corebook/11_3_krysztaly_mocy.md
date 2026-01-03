@@ -1,4 +1,4 @@
-### 11.3 Kryształy mocy
+### Kryształy mocy
 
 TODO: sekcja nie została sprawdzona
 
