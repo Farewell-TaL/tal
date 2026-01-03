@@ -1,7 +1,5 @@
 ### Zbroje
 
-TODO: opis w podsekcji "Zwykłe zbroje"
-
 Przedmioty ochronne, zwane w mechanice po prostu zbrojami dzielą się na zbroje (właściwe) i hełmy, które są dopełnieniem ochrony ciała. Wszystkie zasady dotyczące zbroi dotyczą również hełmu, chyba że zostało wskazane inaczej.
 
 Zbroje zapewniają "pokrycie" i "pancerz". Pokrycie określa jaka powierzchnia ciała postaci jest chroniona za pomocą zbroi. Fizycznie zbroja zapewnia pokrycie w przedziale 30 - 50. Niższe i wyższe pokrycie może realnie istnieć, ale przedmioty je zapewniające nie będą zbrojami (odpowiednio hełmami). Ogólnie pokrycie określa o ile atakujący postać musi osiągnąć w teście trafienia więcej niż wynosi obrona fizyczna chronionej zbroją postaci, aby trafić w miejsce, które nie jest chronione pancerzem. Im wyższe pokrycie tym lepiej dla postaci. Pancerz z kolei to wartość, która obniża obrażenia, gdy postać zostanie trafiona w miejsce chronione pancerzem. Może zdarzyć się, że silny pancerz całkowicie zniweluje ewentualne obrażenia.
@@ -21,7 +19,7 @@ Cena
 : wartość danej zbroi.
 
 Zwykłe zbroje
-: Zbroje wytwarza się z różnych materiałów, a nie tylko jednego. Jeden z materiałów jest jednak kluczowym i to od niego bierze się nazwa danej zbroi. W zależności od modelu i wykończenia dana zbroja może XXX
+: Zbroje wytwarza się z różnych materiałów, a nie tylko jednego. Jeden z materiałów jest jednak kluczowym i to od niego bierze się nazwa danej zbroi. W zależności od modelu i wykończenia dana zbroja może TODO: brak dokończonego zdania przez Pythona
 
 Specjalne zbroje
 : Niektóre zbroje zostały wykonane w sposób, który zapewnia im specjalne właściwości - są wytrzymalsze, lżejsze, zapewniają lepsze pokrycie postaci. Jest to efekt połączenia pewnych materiałów ze swoistą wiedzą, a co za tym idzie takich zbrój nie można robić z każdego materiału.
