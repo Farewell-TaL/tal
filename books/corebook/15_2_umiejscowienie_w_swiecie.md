@@ -4,6 +4,7 @@ Każdy skądś pochodzi i wychował się w jakichś warunkach. Możliwe, że Two
 
 Pierwszą korzyścią z wyboru regionu pochodzenia postaci jest otrzymanie "darmowego" języka, który jest charakterystyczny dla danego regionu. Drugą korzyścią jest możliwość przeprowadzania wszystkich testów znajomości związanych z regionem, a trzecią dostęp do specjalnej listy zdolności, którą postać będzie mogła zakupić za doświadczenie początkowe.
 
+TODO: zredagować poniższy tytuł "LISTA REGIONÓW POCHODZENIA", czy nie powinno być czegoś innego zamiast trzech hashów
 ### LISTA REGIONÓW POCHODZENIA
 
 #### Enklawa Leśnego Ludu
