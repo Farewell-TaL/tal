@@ -1,4 +1,4 @@
-## Rozdział 13 -  Zwierzęta i słudzy
+## Zwierzęta i słudzy
 
 TODO: sekcja nie została sprawdzona
 
