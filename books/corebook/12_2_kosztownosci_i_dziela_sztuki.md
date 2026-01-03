@@ -1,4 +1,4 @@
-### 12.2 Kosztowności i dzieła sztuki
+### Kosztowności i dzieła sztuki
 
 TODO: sekcja nie została sprawdzona
 
