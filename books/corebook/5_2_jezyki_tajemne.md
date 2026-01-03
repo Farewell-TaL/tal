@@ -1,4 +1,4 @@
-### 5.2 Języki tajemne {data-children-id-prefix=jezyk-tajemny}
+### Języki tajemne {data-children-id-prefix=jezyk-tajemny}
 
 [Języki tajemne a trudność ich poznania]
 | Nazwa języka | Grupa językowa | Trudność poznania na poziomie ||
