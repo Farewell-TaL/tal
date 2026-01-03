@@ -1,4 +1,4 @@
-### 12.4 Monety i metale szlachetne
+### Monety i metale szlachetne
 
 TODO: sekcja nie została sprawdzona
 
