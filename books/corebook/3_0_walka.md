@@ -1,4 +1,4 @@
-## Rozdział 3 - Walka
+## Walka
 
 W rozdziale tym znajdują się zasady prowadzenia walki i bitew, a także opisy umiejętności i technik stosowanych podczas starć z wrogami. Walka w tym rozumieniu ograniczona została do konfrontacji zbrojnej.
 
