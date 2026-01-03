@@ -1,4 +1,4 @@
-### 3.2 Trafienie
+### Trafienie
 
 W niniejszym podrozdziale opisane zostały zasady dotyczące trafienia atakiem i uniknięcia tego ataku. 
 
