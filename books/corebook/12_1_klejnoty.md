@@ -1,4 +1,4 @@
-### 12.1 Klejnoty
+### Klejnoty
 
 TODO: sekcja nie została sprawdzona
 
