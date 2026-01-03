@@ -1,4 +1,4 @@
-### 3.1 Terminy walki
+### Terminy walki
 
 W niniejszym podrozdziale opisane zostały wszystkie pojęcia, które trzeba znać, aby móc zapoznać się z zasadami walki. 
 
@@ -25,11 +25,13 @@ To, że wszystko może być bronią nie znaczy, że wszystko się nadaje na dobr
 
 #### Broń ciężka
 
-Każda postać może używać wielu broni, lecz niektóre z uwagi na jej udźwig będą posiadały cechę "ciężka". Ciężka broń to taka, która trzymana dwuręcznie ma wagę przynajmniej równą 1/4 udźwigu postaci, a trzymana jednoręcznie ma połowę tej wagi (<ins>nie zaokrąglamy wyniku dzielenia</ins>).
+Każda postać może używać wielu broni, lecz niektóre z uwagi na jej udźwig będą posiadały cechę "ciężka". Ciężka broń to taka, która trzymana dwuręcznie ma wagę przynajmniej równą 1/4 udźwigu postaci, a trzymana jednoręcznie ma połowę tej wagi (nie zaokrąglamy wyniku dzielenia).
 
 Ciężka broń, gdy jest używana przez postać powoduje karę -10 do testów władania nią, co przekłada na szansę trafienia przeciwnika, a poza tym ataki nią wykonywane wymagają poświęcenia prócz akcji zwykłej jeszcze akcję dodatkową.
 
 Postać może używać jednoręcznie broni, która waży maksymalnie tyle ile wynosi jej udźwig, a dwuręcznie broni, która waży dwukrotność jej udźwigu. Jednakże za każde 0,5 kg więcej niż wynosi waga "ciężkiej broni” postać otrzymuje dodatkowe -10 do testu trafienia. 
+
+TODO: Przemianować poniższą tabelę na dynamicznie zaciągającą się tabelę
 
 [Udźwig postaci a ciężka broń]
 | Udźwig	| Ciężka broń jednoręcznie	| Ciężka broń dwuręcznie |
