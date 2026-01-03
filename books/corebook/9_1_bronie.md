@@ -1,4 +1,4 @@
-### 9.1 Bronie
+### Bronie
 
 W tym podrozdziale zostały zaprezentowane bronie dostępne w świecie gry. Podobnie jak to będzie w przypadku wszystkich innych tu rozdziału nie sposób opisać wszystkich możliwych broni. Jest ich w zasadzie nieskończenie wiele i to, aby coś uczynić bronią w zasadzie zależy od wyobraźni i inteligencji Graczy lub ich postaci.
 
