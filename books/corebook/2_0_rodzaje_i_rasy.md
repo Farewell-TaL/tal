@@ -1,4 +1,4 @@
-## Rozdział 2 - Rodzaje i rasy
+## Rodzaje i rasy
 
 W niniejszym rozdziale zostały zebrane opisy mechaniczne dotyczące wszystkich podstawowych rodzajów i ras występujących w Tales and Legends istot rozumnych, które naturalnie posiadają "osobowość". Nie są tu przedstawione wszystkie rasy, które występują w świecie, ale tylko te, które wytworzyły twór, który nazwać można "cywilizacją". Pozostałe rasy zostały wykazane i opisane w Księdze Mistrza. 
 
