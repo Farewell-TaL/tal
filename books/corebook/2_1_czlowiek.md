@@ -1,8 +1,6 @@
-### 2.1 Człowiek (Ludzie)
+### Człowiek (Ludzie)
 
 Ludzie są najpowszechniejszą z rozumnych ras, które żyją w Sorii. Rasa ta powstała w zamierzchłych czasach na Sacterze - wyspie na południe od Sorii, północ od Nubii i zachód od Jaf'Ard. Stamtąd ludzie wyemigrowali z bliżej nieokreślonego powodu, ale najpewniej wynikłego z jakiejś katastrofy naturalnej i po wielu wiekach zdominowali najbliższe krainy, a osiedlając się w nich na stałe wzór miejsc sprawiał, że zmieniał się ich wygląd i zmieniała się ich natura. Dzisiaj żyją elidiończycy, gvarinowie, lantańczycy, nubowie, shounowie i wallosi, ale z uwagi na swe właściwości wśród ludzi żyją również mieszańcy dwóch lub większej ilości ludzkich ras, a jeżeli i tego byłoby mało to w zasadzie ludźmi są elflini i orklini - pierwsi są wynikiem miłości jakiegoś elfa i człowieka, a drudzy najczęściej zgwałcenia ludzkiej kobiety przez orka. Z jakiegoś powodu krew ludzi miesza się bowiem z krwią sidhe, a zarówno elfowie, jak i orkowie należą do tejże grupy. Ludzie mogą być również lykanami i wampirami, a poza tym żyją kambioni, którzy są półludźmi i półdemonami.  
-
-<h5>STATYSTYKI LUDZI</h5>
 
 Doświadczenie początkowe
 : 5000 punktów. Ludzie dzielą się na: Elidiończyków, Gvarinów, Kirmisów, Lantańczyków, Nubów, Shounów i Wallosów. Występują wśród nich także kreole (mieszańce przynajmniej dwóch typów ludzi).
