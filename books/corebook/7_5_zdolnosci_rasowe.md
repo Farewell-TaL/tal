@@ -1,4 +1,4 @@
-### 7.5 Zdolności rasowe {data-children-id-prefix=zdolnosc-rasowa}
+### Zdolności rasowe {data-children-id-prefix=zdolnosc-rasowa}
 
 Przedstawiciele różnych ras mogą wykształcić specyficzne zdolności, które zdeterminowane są ich biologią lub naturą. Zdolności te nazywane są rasowymi.
 
