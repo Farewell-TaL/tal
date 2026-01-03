@@ -1,4 +1,4 @@
-### 1.6 Szczęście
+### Szczęście
 
 Czasami los jest łaskawy, a czasami nie. Śmiertelni stają się Bohaterami, gdy fortuna się do nich uśmiecha szeroko.
 
