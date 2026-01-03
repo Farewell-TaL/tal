@@ -1,4 +1,4 @@
-### 6.3 Umiejętności specjalne {data-children-id-prefix=umiejetnosc-specjalna}
+### Umiejętności specjalne {data-children-id-prefix=umiejetnosc-specjalna}
 
 Specjalne umiejętności różnią od pozostałych umiejętności tym, że mają specjalne warunki początkowe ich rozwijania lub przeprowadzenia ich testów. 
 
