@@ -1,4 +1,4 @@
-## Rozdział 12 -  Bogactwa
+## Bogactwa
 
 TODO: sekcja nie została sprawdzona
 
