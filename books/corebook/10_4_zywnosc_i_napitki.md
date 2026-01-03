@@ -1,4 +1,4 @@
-### 10.4 Żywność i napitki
+### Żywność i napitki
 
 TODO: sekcja nie została sprawdzona
 
